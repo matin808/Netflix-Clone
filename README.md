@@ -1,7 +1,7 @@
+For deployed version of this repository [Click_Here](https://netflix-clone-a22df.web.app/).
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-
 In the project directory, you can run:
 
 ### `npm start`
